@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity);
         Log.d("String","niuanqi");
         Log.d("","牛安琪");
+        String s = "hhhhh";
     }
 }
