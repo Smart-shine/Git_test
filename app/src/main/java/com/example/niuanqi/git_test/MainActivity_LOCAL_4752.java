@@ -13,9 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity);
         Log.d("String","niuanqi");
         Log.d("","牛安琪");
-
         Intent intents = new Intent(this,second.class);
-        String s ="yyyyyyhhhhhh";
-
+        String s ="yyyyyy";
     }
 }
